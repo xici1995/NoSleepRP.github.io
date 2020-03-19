@@ -1,7 +1,6 @@
 [
-/* Template:
   {
-    "id":new id,
+    "id":100,
     "type":"Territory Areas", //or Neutral Zones
     "title":"Not Claimed Yet",
     "notes":"Not Claimed Yet",
@@ -23,7 +22,6 @@
       "end":"0:00"
     }
   },
-*/ 
   {
     "id":1,
     "type":"Neutral Zones",
