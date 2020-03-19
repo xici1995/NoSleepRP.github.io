@@ -1,7 +1,7 @@
 [
   {
     "id":100,
-    "type":"Territory Areas", //or Neutral Zones
+    "type":"Territory Areas",
     "title":"Not Claimed Yet",
     "notes":"Not Claimed Yet",
 	"wiki_link":"",
