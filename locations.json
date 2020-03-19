@@ -332,22 +332,18 @@
   },
     {
     "id":25,
-    "type":"Territory Areas",
-    "title":"Sandy Shores",
-    "notes":"Don't get robbed by the bikers, also watch for angry locals.",
+    "type":"Neutral Zones",
+    "title":"Steen's Tuning shio",
+    "notes":"Come here if you would like to have your car tuned!",
     "order":2,
 	"strokecolor":"#000000",
-	"fillcolor":"#ffffff",
+	"fillcolor":"#fd5e53",
     "latlngarray": [
-		{"lat": 79.109, "lng": -104.576},
-		{"lat": 79.543, "lng": -106.024},
-		{"lat": 79.509, "lng": -107.661},
-		{"lat": 79.194, "lng": -109.594},
-		{"lat": 78.953, "lng": -113.011},
-		{"lat": 78.772, "lng": -111.891},
-		{"lat": 78.671, "lng": -109.118},
-		{"lat": 78.717, "lng": -108.135}
-	]
+		{"lat": 60.816, "lng": -114.756},
+		{"lat": 60.806, "lng": -114.437},
+		{"lat": 59.981, "lng": -114.602},
+		{"lat": 60.014, "lng": -114.909}
+]
   },
   {
     "id":22,
